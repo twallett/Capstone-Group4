@@ -4,9 +4,9 @@
 
 - <u>Tyler</u>: A comparative study of graph-based and reinforcement learning-based recommendation systems.
 
-- <u>Nina</u>: Will focus on creating Graph Convolutional Network(GCN) and comparing it to GCN with Simplified Graph Convolution (SGConv); will work on simMLP/demographic adding if time allows it.
+- <u>Nina</u>: Will focus on creating a Graph Convolutional Network(GCN) and comparing it to GCN with Simplified Graph Convolution (SGConv); will work on simMLP/demographic adding if time allows it.
 
-- <u>Yoni</u>:
+- <u>Yoni</u>: Develop and compare GNN-based models from several perspectives such as link prediction, node classification, or graph embedding.
 
 ## 2. Folder Structure
 
