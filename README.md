@@ -1,5 +1,15 @@
 # Capstone-Group4
 
+## 1. Outlook
+
+- <u>Tyler</u>: A comparative study of graph-based and reinforcement learning-based recommendation systems.
+
+- <u>Nina</u>: 
+
+- <u>Yoni</u>:
+
+## 2. Folder Structure
+
 ```
 .
 ├── code
