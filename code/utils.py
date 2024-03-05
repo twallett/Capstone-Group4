@@ -1,4 +1,10 @@
 #%%
+
+import torch_geometric
+print(torch_geometric.__version__)
+
+#%%
+
 import torch
 from torch_geometric.data import HeteroData
 import torch_geometric.transforms as T
@@ -80,3 +86,5 @@ def dataloader(data, edge_label_index, train_index, test_index, device, batch_si
     ).sort_by('row')[0]
     
     return train_loader, src_loader, dst_loader, test_edge_label_index, test_exclude_links
+
+# %%

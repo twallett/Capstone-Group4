@@ -48,10 +48,10 @@ def load_edge_csv(path, src_type, dst_type, src_col, dst_col, edge_attr_cols=Non
     return data
 
 # Example usage
-data = HeteroData()
-node_data = load_node_csv('path_to_nodes.csv', 'node_type', ['feature1', 'feature2'])
-edge_data = load_edge_csv('path_to_edges.csv', 'src_type', 'dst_type', 'src_col', 'dst_col', ['edge_feature'])
-data.update(node_data)
-data.update(edge_data)
+# data = HeteroData()
+# node_data = load_node_csv('path_to_nodes.csv', 'node_type', ['feature1', 'feature2'])
+# edge_data = load_edge_csv('path_to_edges.csv', 'src_type', 'dst_type', 'src_col', 'dst_col', ['edge_feature'])
+# data.update(node_data)
+# data.update(edge_data)
 
-print(data)
+# print(data)
